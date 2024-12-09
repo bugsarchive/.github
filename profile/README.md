@@ -22,9 +22,11 @@ You can read the build script yourself [here](https://github.com/bugsarchive/bug
 
 The files in `/src/` are used in a particular way to generate the HTML pages talked about in the description of the build script's function:
 
-- /build/index.html = /src/top.html + (generated list) + /src/btm.html
-- /build/category001/index.html = /src/cattop.html + (rendered main.md + generated list) + /src/catbtm.html
-- /build/category001/article001.html = /src/posttop.html + (rendered markdown) + /src/postbtm.html
+```
+/build/index.html = /src/top.html + (generated list) + /src/btm.html
+/build/category001/index.html = /src/cattop.html + (rendered main.md + generated list) + /src/catbtm.html
+/build/category001/article001.html = /src/posttop.html + (rendered markdown) + /src/postbtm.html
+```
 
 Notice how none of the data has to be put together in the frontend, this is very important, we want the site to be accessible by the most simplest forms of browsers without any form of script support needed.
 
@@ -33,4 +35,4 @@ Notice how none of the data has to be put together in the frontend, this is very
 - No JS unless absolutely necessary. As we stated earlier, we want this to be accessible by the simplest of browsers, including terminal ones.
 - Anything created for this project must be FOSS.
 - No shitposting in PRs, and no special characters, shell escape characters or RegEx syntax in directory or file names.
-- No AI generated content nor plagiarised content. All content must be written by humans and original; cite any sources however you want.
+- No AI generated content nor plagiarised content. All content must be written by humans and be original; cite any sources however you want.
