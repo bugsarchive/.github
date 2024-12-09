@@ -32,3 +32,5 @@ Mauris a erat vitae tortor facilisis tempor ut at urna. Sed vel suscipit urna. I
 ### Example three name
 Mauris sed maximus mi. Vestibulum placerat eros ut lorem tempus euismod. Phasellus egestas id ex vel maximus. Sed mattis ut dui at auctor. Vestibulum blandit et nulla id tincidunt. Aenean auctor neque et faucibus iaculis. Vestibulum quis gravida enim, quis maximus nisl. Nullam ac rhoncus purus. In varius consequat dignissim. Praesent malesuada consequat turpis ut auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus sed tellus in tortor ullamcorper gravida. Praesent tempor tellus non nisi luctus tincidunt. Cras fringilla eros eu est mattis, vitae hendrerit mi ultricies. Sed rutrum diam tellus, nec egestas augue sodales id. Etiam vestibulum purus et justo facilisis placerat.
 
+## The rest as you fit...
+There's really a lot of freedom with how your articles are structured as long as they're purely informative and in proper English and are coherent.
